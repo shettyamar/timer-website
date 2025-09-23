@@ -33,9 +33,11 @@
 }
 .launch-time{
     display: flex;
+    gap: 10px;
 }
 .launch-time div{
     flex-basis: 100px;
+    text-align: center;
 }
 .launch-time div p{
     font-size: 60px;
